@@ -4,11 +4,11 @@
 
 # Employees-Dashboard
 React Employee Insights Dashboard with custom virtual scrolling 
->>>>>>> 8faddeeb86b7f0dfe2e452356afd488affbb1493
+
 =======
 # Finance-Dashboard-UI-project
 A clean and interactive finance dashboard built using React. This project demonstrates UI design, component structure, state management, and role-based behavior.
->>>>>>> 9e6b27caa63aed1f1358a0e3faf17c3c43f65955
+
 🚀 Features
 📊 Dashboard overview with summary cards (Balance, Income, Expenses)
 📈 Chart for income vs expenses
